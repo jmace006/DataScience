@@ -11,6 +11,7 @@
 - Dictionaries
 - Error Handling
 - Functions
+- Git and GitHub
 - K Nearest Neighbours Project
 - Kaggle Project
 - Line Charts Project
@@ -30,3 +31,4 @@
 - Statistics
 - Strings and Regex
 - Threading
+- Unix Command Line and CSVStack
