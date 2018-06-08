@@ -1,2 +1,32 @@
 # DataScience
-Repository for Data Science/Engineering notes
+## Repository for Data Science/Engineering notes in Python:
+
+- APIs JSON and Web Scraping
+- Classes
+- Command Line
+- Data Structures and Algorithms
+- Data Visualisation
+- Dates
+- Decision Trees Project
+- Dictionaries
+- Error Handling
+- Functions
+- K Nearest Neighbours Project
+- Kaggle Project
+- Line Charts Project
+- Linear Regression Project
+- Lists and Sets
+- Machine Learning
+- Mapping With Basemap
+- Modules
+- Numpy
+- Pandas
+- PostgreSQL
+- Probability
+- Spark and MapReduce
+- SQLite
+- SQLite Database Project
+- SQLite in Python
+- Statistics
+- Strings and Regex
+- Threading
