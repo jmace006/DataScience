@@ -1,5 +1,5 @@
 # DataScience
-## Repository for Data Science/Engineering notes in Python:
+## Data Science notes and projects (in Python):
 
 - APIs JSON and Web Scraping
 - Classes
